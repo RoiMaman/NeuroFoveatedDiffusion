@@ -333,6 +333,7 @@ dependencies:
   - zstd=1.5.7=hb78ec9c_6
   - pip:
       - accelerate==1.0.1
+      - datasets==3.1.0
       - diffusers==0.36.0
       - einops==0.8.1
       - fsspec==2025.3.0
@@ -341,6 +342,7 @@ dependencies:
       - lightning-utilities==0.11.9
       - lpips==0.1.4
       - opencv-python==4.12.0.88
+      - peft==0.13.2
       - regex==2024.11.6
       - safetensors==0.5.3
       - tokenizers==0.20.3
